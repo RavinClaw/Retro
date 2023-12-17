@@ -1,0 +1,1 @@
+give @s ender_eye{display:{Name:'{"text": "Invisible Pearl", "bold": true, "color": "dark_purple"}'}}

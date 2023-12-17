@@ -1,0 +1,1 @@
+summon cow ~ ~ ~ {CustomName:'{"text":"Avion"}', DeathLootTable:"retro:custom_cow_loot" }

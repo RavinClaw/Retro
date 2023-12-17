@@ -1,0 +1,1 @@
+execute as @a run execute if entity @s[nbt={SelectedItem:{id:"minecraft:ender_eye",tag:{display:{Name: '{"text": "Invisible Pearl", "bold": true, "color": "dark_purple"}'}}}}] run effect give @s invisibility 1 1 true
